@@ -1,8 +1,2 @@
-tsg-bto-apps-lt-controller/C1H17K211/cmts_lt-controller
-tsg-bto-apps-lt-core/C1H2Y7T42/cmts_lt-core
-tsg-bto-apps-lt-lr/C1H2TH2Q1/cmts_lt-lr
-tsg-bto-apps-lt-lr-app-infra/C1H16SCDR/cmts_lt-lr-app-infra
-tsg-bto-apps-lt-infra/C1H2W5RDL/cmts_lt-infra
-tsg-bto-apps-skywalker/C1H2J8EQY/cmts_skywalker
-tsg-bto-apps-tcs/C1H2YBB5Y/cmts_tcs
-tsg-bto-apps-utt/C1HT6UQUW/cmts_utt
+tsg-bto-apps-lt-controller/G0JEAR3NK/testprivate0
+tsg-bto-apps-lt-core/G0JEAR3NK/testprivate0
