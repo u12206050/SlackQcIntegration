@@ -1,0 +1,5 @@
+&query={planned-closing-ver[LR_12.51];detected-by[azavaliy];}
+&query={id[50291];}
+&query={planned-closing-ver[Not \"Obsolete\"];owner["steves"];status[Not \"Closed\"];
+&query={planned-closing-ver[Not \"Obsolete\"];user-40["azavaliy"];status[Not \"Closed\"];}
+&query={planned-closing-ver[LR_12.51];last-modified[> \"2016-01-27 15:48:10\"];}

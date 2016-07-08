@@ -1,0 +1,10 @@
+G0S5CPK9N_cloud_test
+G12SPJ6TF_lr_qa_ua_internal
+G0JEAR3NK_testprivate0
+G14SJ2M4M_testprivate2
+G06K8JUET_testprivategroup
+G06BE0JPJ_us_citrix
+G0781T466_us_cloud
+G0A5TMTU3_us_flex
+G0NR02MRT_us_java
+G0DBMCFS8_us_pcoip_teradici

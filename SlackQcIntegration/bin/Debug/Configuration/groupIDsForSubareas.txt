@@ -1,0 +1,9 @@
+Flex/G0A5TMTU3/flex
+Flex/G0JEAR3NK/testprivate0
+PCoIP/G0DBMCFS8/us_pcoip_teradici
+Cloud/G0781T466/us_cloud
+Citrix/G06BE0JPJ/us_citrix
+Java/G0NR02MRT/us_java
+Java Over HTTP/G0NR02MRT/us_java
+Java Vuser/G0NR02MRT/us_java
+
